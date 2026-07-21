@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Muhammet Azat Taş 👋
 
-<!--
-**azat-tas/azat-tas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Düzce University interested in **Cyber Security**, **Artificial Intelligence**, and **Data Analysis**. I enjoy building practical projects that combine software development, networking, and AI technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Cyber Security
+- Artificial Intelligence
+- Data Analysis
+- Network Security
+- RAG Systems
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Python
+- C++
+- SQL (T-SQL, MySQL)
+
+### AI & Data Technologies
+- RAG
+- Streamlit
+- Hugging Face
+- FAISS
+- Sentence Transformers
+
+### Cyber Security
+- Network Security
+- Linux
+- CCNA
+- Load Testing (Locust)
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Visual Studio
+- Jupyter Notebook
+- Google Colab
+- Packet Tracer
+- VirtualBox
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://linkedin.com/in/senin-profil-linkin](https://www.linkedin.com/in/muhammet-azat-tas/)
+- Email: azattas20136@gmail.com
